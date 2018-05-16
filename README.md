@@ -1,4 +1,4 @@
-Effective Troubleshootin with Differential Heap Analysis
+Effective Troubleshooting with Differential Heap Analysis
 ========================================================
 
 Beyond detecting memory leaks, differential heap analysis 
