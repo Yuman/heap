@@ -1,12 +1,12 @@
 # This file name heapdiff.props, anywhere in Java classpath
 
 # BaselineHistos are heap histogram source file names
-BaselineHistos=C:/Users/446549/Desktop/Jmap/jmap-dsm-load1.txt
-#BaselineHistos=C:/Users/446549/Desktop/Jmap/jmap-dsm-load2.txt
-#BaselineHistos=C:/Users/446549/Desktop/Jmap/jmap-dsm-load3.txt
+BaselineHistos=C:/Users/ky/Desktop/Jmap/jmap-dsm-load1.txt
+#BaselineHistos=C:/Users/ky/Desktop/Jmap/jmap-dsm-load2.txt
+#BaselineHistos=C:/Users/ky/Desktop/Jmap/jmap-dsm-load3.txt
 
 # Problematic heap histogram
-SubjectHisto=C:/Users/446549/Desktop/Jmap/jmap-dsm-load3.txt
+SubjectHisto=C:/Users/ky/Desktop/Jmap/jmap-dsm-load3.txt
 
 # Exclusion patterns of class names. ".*" matches anything of any length
 Excludes=weblogic.*|.*\$.*|com\.sun.*|com\.singularity.*|sun\..*|org\.apache.*|oracle\..*|java.*|com\.bea.*
